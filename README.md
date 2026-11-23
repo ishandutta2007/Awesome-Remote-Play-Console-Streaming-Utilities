@@ -10,7 +10,8 @@
   <a href="https://github.com/ishandutta2007/Awesome-Remote-Play-Console-Streaming-Utilities/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Remote-Play-Console-Streaming-Utilities?style=flat-square&logo=github&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Remote-Play-Console-Streaming-Utilities/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Remote-Play-Console-Streaming-Utilities?style=flat-square&color=rose" alt="GitHub Issues"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT"/></a>
-  <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome List"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome List"/></a>
+  <a href="https://github.com/ishandutta2007"><img llt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Flllow" /></a>
 </p>
 
 ---
@@ -35,6 +36,8 @@ A curated collection of the best **Remote Play software**, **game streaming util
   - [🌐 WebRTC, Containerized & VR Streaming](#-webrtc-containerized--vr-streaming)
   - [🛠️ Console Tooling & Protocol Libraries](#️-console-tooling--protocol-libraries)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [⚖️ Disclaimer](#️-disclaimer)
 
 ---
@@ -184,6 +187,25 @@ Contributions are warmly welcome! Help keep this ecosystem guide up-to-date:
 2. **Add / update entries** in `README.md` following the tabular or categorized structure.
 3. **Include details**: Tool name, official URL, pricing/free tier specifics (if SaaS), and GitHub star badge with `style=social&color=white` (if open source).
 4. **Submit a Pull Request** with a descriptive summary of your changes.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring this curated directory! If this ecosystem guide helped you discover new game streaming tools, set up low-latency remote play on your Steam Deck, or build your self-hosted Sunshine/Moonlight rig, please consider supporting the project:
+
+- 🌟 **Star the repository** to boost visibility on GitHub.
+- 🍴 **Fork and contribute** new open-source or SaaS streaming utilities.
+- 📢 **Share the project** with your fellow gaming communities, Reddit, and Discord servers.
+- ☕ **Buy a coffee / Sponsor the maintainer**: Support ongoing open-source curation and maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your support is deeply appreciated! ❤️
+
+---
+
+##  Star History
+#[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Remote-Play-Console-Streaming-Utilities&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Remote-Play-Console-Streaming-Utilities&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Remote-Play-Console-Streaming-Utilities&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Remote-Play-Console-Streaming-Utilities&type=date&legend=top-left)
 
 ---
 
